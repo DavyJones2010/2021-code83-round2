@@ -1,0 +1,8 @@
+{
+  "prefixs":["Sql","Day",""],  // 字符串前缀
+  "oss_endpoint": "http://oss-cn-hangzhou.aliyuncs.com", // OSS访问endpoint,
+  "oss_key": "data/code83_api_dev.txt",  // OSS数据集访问地址
+  "bucket": "code83-exams",  // OSS Bucket
+  "access_key": "LTAI5tQmmgwL6FxvLmcF6hYw", // OSS 访问AK
+  "access_secret": "7Msn0sVDed5d5OP4PiBx9i7Ti0ooIx" // OSS 访问SK
+}
